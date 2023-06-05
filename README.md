@@ -25,6 +25,6 @@ These optimizations can help mitigate the CUDA out of memory error and allow smo
 
 ---
 ## Model
-**Download the models that we have trained from the following link:** 
+**Download the models that we have trained and our wiki data from the following link:** 
 
 - [Models Here](https://drive.google.com/drive/folders/177mwHq1cz0iujxOYTm1XnlczvIGMoqTF?usp=sharing)
