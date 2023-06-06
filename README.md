@@ -4,9 +4,9 @@
 ---
 ## Information
 
-Team Name : Team3598
-Public Score : 0.599 (6th/301)
-Private Score : 0.689 (5th/301)
+- Team Name : Team3598
+- Public Score : 0.599 (6th/301)
+- Private Score : 0.689 (5th/301)
 
 ---
 ## Environment setting
