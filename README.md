@@ -1,5 +1,5 @@
 # AIcup 2023 
-### [Fact checking Competition]([https://tbrain.trendmicro.com.tw/Competitions/Details/28])
+### [Fact checking Competition](https://tbrain.trendmicro.com.tw/Competitions/Details/28)
 
 ---
 ## Information
