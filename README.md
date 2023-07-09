@@ -1,5 +1,5 @@
 # AIcup 2023 
-### [Fact checking Competition]([https://tbrain.trendmicro.com.tw/Competitions/Details/28](https://www.aicup.tw/post/%E3%80%90%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE%E3%80%91ai-cup-2023-%E6%98%A5%E5%AD%A3%E8%B3%BD%E3%80%8C%E7%9C%9F%E7%9B%B8%E5%8F%AA%E6%9C%89%E4%B8%80%E5%80%8B%EF%BC%9A%E4%BA%8B%E5%AF%A6%E6%96%87%E5%AD%97%E6%AA%A2%E7%B4%A2%E8%88%87%E6%9F%A5%E6%A0%B8%E3%80%8D%E7%AB%B6%E8%B3%BD))
+### [Fact checking Competition]([https://tbrain.trendmicro.com.tw/Competitions/Details/28](https://www.aicup.tw/post/%E3%80%90%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE%E3%80%91ai-cup-2023-%E6%98%A5%E5%AD%A3%E8%B3%BD%E3%80%8C%E7%9C%9F%E7%9B%B8%E5%8F%AA%E6%9C%89%E4%B8%80%E5%80%8B%EF%BC%9A%E4%BA%8B%E5%AF%A6%E6%96%87%E5%AD%97%E6%AA%A2%E7%B4%A2%E8%88%87%E6%9F%A5%E6%A0%B8%E3%80%8D%E7%AB%B6%E8%B3%BD)
 
 ---
 ## Information
